@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225230312
+# Name: YOGESH A R
+# Date: 20-11-2026
 
 
 # AIM:
@@ -31,6 +31,9 @@ UML is the modeling toolkit that you can use to build your diagrams. Use cases a
 Stick figures represent actors in the process, and the actor's participation in the system is modeled with a line between the actor and use case.
 # UML use case diagrams are ideal for:
 
+<img width="1015" height="766" alt="Screenshot 2026-10-23 104533" src="https://github.com/user-attachments/assets/bf3d610c-405e-430f-92e5-330d4e13b0e1" />
+
+
 Representing the goals of system-user interactions
 
 Defining and organizing functional requirements in a system
@@ -46,6 +49,9 @@ Specifying the context and requirements of a system
 
 
 # CLASS DIAGRAM
+
+<img width="1920" height="1080" alt="Screenshot 2026-10-27 143033" src="https://github.com/user-attachments/assets/d61a55e1-3d86-4897-8444-bf7e68385df1" />
+
 
 The Unified Modeling Language (UML) can help you model systems in various ways. One of the more popular types in UML is the class diagram. Popular
 
@@ -63,6 +69,9 @@ Create detailed charts that…
 
 # COMMUNICTION DIAGRAM:
 
+<img width="1920" height="1080" alt="Screenshot 2026-11-20 105056" src="https://github.com/user-attachments/assets/bec91564-ca14-4fdc-9560-9ce24e1e17b6" />
+
+
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
@@ -71,6 +80,9 @@ Communication diagrams offer benefits similar to sequence diagrams, but they wil
 
 
 # PACKAGE DIAGRAM:
+
+<img width="1920" height="1080" alt="Screenshot 2026-11-03 135805" src="https://github.com/user-attachments/assets/96a89fce-3fb3-48af-8e9c-9eaf4f682135" />
+
 
 Package diagrams are structural diagrams used to show the organization and arrangement of various model elements in the form of packages. A package is a grouping of related UML elements, such as diagrams, documents, classes, or even other packages. Each element is nested within the package, which is depicted as a file folder within the diagram, then arranged hierarchically within the diagram. Package diagrams are most commonly used to provide a visual
 
@@ -87,6 +99,9 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 # ACTIVITY DIAGRAM:
 
+<img width="1920" height="1080" alt="Screenshot 2026-11-20 110225" src="https://github.com/user-attachments/assets/f9e53758-6912-41f4-8eb0-bffbbcf29680" />
+
+
 The Unified Modeling Language includes several subsets of diagrams, including structure diagrams, interaction diagrants, and behavior diagrams. Activity diagrams, along with use case and state machine diagrams, are considered behavior diagrams because they describe what must happen in the system being modeled.
 
 Stakeholders have many issues to manage, so it's important to communicate with clarity and brevity. Activity diagrams help people on the business and development sides of an organization come together to understand the same process and behavior.
@@ -102,6 +117,9 @@ Describe the steps performed in a UML use case.
 
 
 # SEQUENCE DIAGRAM
+
+<img width="1016" height="763" alt="Screenshot 2026-11-02 105416" src="https://github.com/user-attachments/assets/7660b2e6-ff22-4845-807a-1fb47f0fd851" />
+
 
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
 
